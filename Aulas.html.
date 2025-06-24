@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Aula de Violão – Acordes Básicos</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    pre {
+      background: #f4f4f4;
+      padding: 10px;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎸 Aula: Primeiros Acordes no Violão</h1>
+
+  <h2>1. Boas-vindas</h2>
+  <p>Seja bem-vindo à sua primeira aula de violão! Hoje você vai aprender os 8 acordes básicos que formam a base de milhares de músicas. Com apenas alguns minutos por dia, você pode começar a tocar rapidinho. Vamos lá?</p>
+
+  <h2>2. Como posicionar a mão esquerda</h2>
+  <ul>
+    <li>Apoie o <strong>polegar atrás do braço do violão</strong> (não por cima!).</li>
+    <li>Use <strong>a ponta dos dedos</strong>, não a face achatada.</li>
+    <li>Pressione perto do <strong>traste</strong>.</li>
+    <li>Mantenha o <strong>punho levemente curvado</strong> e relaxado.</li>
+  </ul>
+
+  <h2>3. Como tocar um acorde</h2>
+  <p>Usaremos o <strong>Em (Mi menor)</strong> como exemplo:</p>
+  <ul>
+    <li>Dedo 2 (médio): segunda casa da 5ª corda (A).</li>
+    <li>Dedo 3 (anelar): segunda casa da 4ª corda (D).</li>
+  </ul>
+  <p>Toque todas as cordas de cima para baixo. Se o som estiver abafado, ajuste a posição e a pressão dos dedos.</p>
+
+  <h2>4. Os 8 acordes básicos</h2>
+
+  <pre>
+Em (Mi menor)
+E |---|---|---|---|---|
+B |---|---|---|---|---|
+G |---| 2 |---|---|---|
+D |---| 3 |---|---|---|
+A |---|---|---|---|---|
+E |---|---|---|---|---|
+
+C (Dó maior)
+E |---|---|---|---|---|
+B |---| 1 |---|---|---|
+G |---|---|---|---|---|
+D |---| 2 |---|---|---|
+A |---|---| 3 |---|---|
+E | X |
+
+G (Sol maior)
+E |---|---|---|---| 3 |
+B |---|---|---|---|---|
+G |---|---|---|---|---|
+D |---|---|---|---|---|
+A |---| 2 |---|---|---|
+E |---|---|---|---| 1 |
+
+D (Ré maior)
+E |---| 2 |---|---|---|
+B |---|---| 3 |---|---|
+G |---| 1 |---|---|---|
+D |---|---|---|---|---|
+A | X |
+E | X |
+
+Am (Lá menor)
+E |---|---|---|---|---|
+B |---| 1 |---|---|---|
+G |---| 2 |---|---|---|
+D |---| 3 |---|---|---|
+A |---|---|---|---|---|
+E | X |
+
+E (Mi maior)
+E |---|---|---|---|---|
+B |---|---|---|---|---|
+G |---| 1 |---|---|---|
+D |---| 2 |---|---|---|
+A |---| 3 |---|---|---|
+E |---|---|---|---|---|
+
+A (Lá maior)
+E |---|---|---|---|---|
+B |---| 2 |---|---|---|
+G |---| 1 |---|---|---|
+D |---| 3 |---|---|---|
+A |---|---|---|---|---|
+E | X |
+
+Dm (Ré menor)
+E |---| 1 |---|---|---|
+B |---|---| 3 |---|---|
+G |---| 2 |---|---|---|
+D |---|---|---|---|---|
+A | X |
+E | X |
+  </pre>
+
+  <h2>5. Dica de treino</h2>
+  <ul>
+    <li>Pratique dois acordes por dia (ex: Em + G).</li>
+    <li>Troque devagar, sem pressa – priorize som limpo.</li>
+    <li>Reforce a memória muscular com repetições.</li>
+  </ul>
+
+  <h2>6. Bônus: Mini repertório</h2>
+  <ul>
+    <li>🎵 Tocando em Frente – Almir Sater</li>
+    <li>🎵 Tempo Perdido – Legião Urbana</li>
+    <li>🎵 Stand by Me – Ben E. King (versão simplificada)</li>
+  </ul>
+
+  <p><strong>Pratique um pouco por dia e verá progresso em poucas semanas!</strong></p>
+</body>
+</html>
